@@ -1,0 +1,97 @@
+0.01 poisoning starting...
+Trial #1 is starting...
+Trial #1 is completed with accuracy: 0.9959336490540776
+---------------------------
+Trial #2 is starting...
+Trial #2 is completed with accuracy: 0.9962311869281694
+---------------------------
+Trial #3 is starting...
+Trial #3 is completed with accuracy: 0.9961815972824875
+---------------------------
+Trial #4 is starting...
+Trial #4 is completed with accuracy: 0.9959832386997595
+---------------------------
+Trial #5 is starting...
+Trial #5 is completed with accuracy: 0.9962807765738514
+---------------------------
+Random Poisoning - 0.01
+SGD's average accuracy: 0.9844139743621533
+MLP's average accuracy: 0.991564801269495
+XGB's average accuracy: 0.9955369318886216
+LGBM's average accuracy: 0.9951848454042796
+AutoKeras's average accuracy: 0.99152512550354
+Average ensemble accuracy: 0.9961220897076689
+
+0.05 poisoning starting...
+Trial #1 is starting...
+Trial #1 is completed with accuracy: 0.9952889836602118
+---------------------------
+Trial #2 is starting...
+Trial #2 is completed with accuracy: 0.9952145991916888
+---------------------------
+Trial #3 is starting...
+Trial #3 is completed with accuracy: 0.9953385733058937
+---------------------------
+Trial #4 is starting...
+Trial #4 is completed with accuracy: 0.9952145991916888
+---------------------------
+Trial #5 is starting...
+Trial #5 is completed with accuracy: 0.9953633681287347
+---------------------------
+Random Poisoning - 0.05
+SGD's average accuracy: 0.9791475539907267
+MLP's average accuracy: 0.9816468721330986
+XGB's average accuracy: 0.9931367930376138
+LGBM's average accuracy: 0.993245890258114
+AutoKeras's average accuracy: 0.9864818572998046
+Average ensemble accuracy: 0.9952840246956436
+
+0.1 poisoning starting...
+Trial #1 is starting...
+Trial #1 is completed with accuracy: 0.9949666509632789
+---------------------------
+Trial #2 is starting...
+Trial #2 is completed with accuracy: 0.9945203441521411
+---------------------------
+Trial #3 is starting...
+Trial #3 is completed with accuracy: 0.994644318266346
+---------------------------
+Trial #4 is starting...
+Trial #4 is completed with accuracy: 0.9941980114552081
+---------------------------
+Trial #5 is starting...
+Trial #5 is completed with accuracy: 0.9948922664947559
+---------------------------
+Random Poisoning - 0.1
+SGD's average accuracy: 0.9721157422330217
+MLP's average accuracy: 0.9665021943418214
+XGB's average accuracy: 0.990062235005331
+LGBM's average accuracy: 0.9914011554387443
+AutoKeras's average accuracy: 0.9793359994888305
+Average ensemble accuracy: 0.994644318266346
+
+0.2 poisoning starting...
+Trial #1 is starting...
+Trial #1 is completed with accuracy: 0.9922640152736109
+---------------------------
+Trial #2 is starting...
+Trial #2 is completed with accuracy: 0.9923383997421339
+---------------------------
+Trial #3 is starting...
+Trial #3 is completed with accuracy: 0.9921152463365649
+---------------------------
+Trial #4 is starting...
+Trial #4 is completed with accuracy: 0.9921648359822469
+---------------------------
+Trial #5 is starting...
+Trial #5 is completed with accuracy: 0.9933053978329325
+---------------------------
+Random Poisoning - 0.2
+SGD's average accuracy: 0.949572289305993
+MLP's average accuracy: 0.9309960080335227
+XGB's average accuracy: 0.9797922193845924
+LGBM's average accuracy: 0.9864223550122734
+AutoKeras's average accuracy: 0.9641466856002807
+Average ensemble accuracy: 0.9924375790334977
+
+RUN TIME: 1-10:22:09
